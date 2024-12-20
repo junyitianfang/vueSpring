@@ -4,7 +4,7 @@
         <div>
             <el-button type="primary" style="width: 150px;height: 60px;"
             @click="gohome">
-                返回首页
+                请返回首页
             </el-button>
         </div>
         <img src="@/assets/404bl.png" alt="">
